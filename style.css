@@ -12,3 +12,20 @@ text-align: left;
 width: 100%;
 font-size: 32px;
 }
+.aba-textos {
+    background-color: var(--texto-fundo);
+    padding: 40px;
+    border-radius: 0 0 40px 40px;
+}
+.aba-conteudo {
+    display:none;
+}
+.aba-conteudo-titulo-principal {
+    font: size 28px;
+    text-aliza:center
+}
+.aba-conteudo-titulo-secundario {
+    text-align:center;
+    color: var(--verde);
+    text-transform: uppercase;
+}
