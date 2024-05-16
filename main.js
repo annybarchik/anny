@@ -7,3 +7,11 @@ for (let i=0;i <botões.length;i++){
 }
 botoes[i].classlist.add("ativo");
 }
+<body>
+    <Selection class="coteudo-principal"></Selection>
+    <h2 class="titulo-principal">Meu Objetivos do 
+    ano<span> </span></h2>
+    <div class=botoes>
+    </div>
+    <script src="main.js"><</script>
+</body>.
